@@ -25,8 +25,12 @@
 * Reading/writing data (CSV, Excel, JSON)
 * DataFrame operations: selection, filtering, indexing
 
-#### Day 6: Matplotlib
+#### Day 6: 📈Matplotlib
 * Matplotlib basics (line, bar, scatter plots)
 * Plot formatting
 
-### 📌 Week 2: Data Visualization & EDA
+### 📌 Week 2: Data 📊Visualization & EDA
+
+#### Day 7: 🐼Pandas
+* Groupby(),size(),group(),get_group()
+* columns, values
