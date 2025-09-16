@@ -30,3 +30,7 @@
 * Plot formatting
 
 ### 📌 Week 2: Data Visualization & EDA
+
+#### Day 6: Pandas
+* Groupby(),size(),group(),get_group()
+* columns, values
