@@ -31,6 +31,6 @@
 
 ### 📌 Week 2: Data 📊Visualization & EDA
 
-#### Day 6: 🐼Pandas
+#### Day 7: 🐼Pandas
 * Groupby(),size(),group(),get_group()
 * columns, values
