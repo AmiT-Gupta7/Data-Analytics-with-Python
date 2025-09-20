@@ -55,3 +55,9 @@
 * scatterplot()
 * barplot()
 * histplot()
+
+  #### Day 12: Plotting 📊graph
+* scatterplot()
+* barplot()
+  
+  
