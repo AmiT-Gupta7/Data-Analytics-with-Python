@@ -34,3 +34,24 @@
 #### Day 7: 🐼Pandas
 * Groupby(),size(),group(),get_group()
 * columns, values
+
+#### Day 8: Matplotlib
+* Groupby(),size(),group(),get_group()
+* columns, values
+
+#### Day 10: 📊Types of Statistics:
+#### 📌 Descriptive Statistics – Summarize and describe data.
+* Mean (average)
+* Median (middle value)
+* Mode (most frequent value)
+* Variance & Standard Deviation (spread of data)
+
+#### 📌 Inferential Statistics – Make predictions/decisions about a population from a sample.
+* Hypothesis testing (t-test, chi-square, ANOVA)
+* Confidence intervals
+* Correlation & regression
+
+#### Day 11: 💹seaborn
+* scatterplot()
+* barplot()
+* histplot()
