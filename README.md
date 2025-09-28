@@ -61,11 +61,11 @@
 * barplot()
   
 #### Day 13: Statistics
-#### 1. Descriptive statistics
+#### 📌 Descriptive statistics
 * Central Tendency, Standard Deviation, Range
 * Mean, Median, Mode
 
-#### Inferential statistics
+#### 📌 Inferential statistics
 * Hypothesis Testing
 * Regression Analysis
 * Correlation
@@ -75,12 +75,12 @@
 * Null Value, Data Types, Shape(rows,columns)
 
 #### Day 15: Statistical analysis & insights 
-*  Player performance
+* Player performance
 * Team comparisons
 * Trends etc.
 #### Day 16: Plotting 📈graph on Statistical analysis
-* Purple cap holders each season 
-* Orange cap holders each season
+* Purple 🧢cap holders each season 
+* Orange 🧢cap holders each season
 * Most 4's & 6's hit by a Player
 
 #### Day 17: Mini Project (Tasks) on IPL DataSets
@@ -95,5 +95,10 @@
 #### Day 19: Main Project
 * Data Analysing and Data Cleaning 
 * Rename Columns as per request
+* Predict the best Outcome
+* Sales, Profit, Stocks etc
 
-
+#### Day 20: Main Project(Final Submission)
+* Brief description of project
+* Outcomes
+* Conclusion 
